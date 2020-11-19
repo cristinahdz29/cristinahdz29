@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋🏼, I'm Cristina!!</h1>
-<h3 align="center">A passionate Full-Stack developer from Atlanta, GA 🏙 </h3>
+<h3 align="center">A passionate Full-Stack developer based in Atlanta, GA 🏙 </h3>
 
 - 🌱 I’m currently learning **React, Redux, Node, and PostgreSQL**
 
