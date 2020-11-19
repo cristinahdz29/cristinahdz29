@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [Link TO Portfolio](Link TO Portfolio)
 
-- 💬 Ask me about **"HTML, CSS, JavaScript, React"**
+- 💬 Ask me about **"HTML, CSS, JavaScript, React, Node.js"**
 
 - 📫 How to reach me **cristinahdz29@gmail.com**
 
