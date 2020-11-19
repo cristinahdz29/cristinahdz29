@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Cristina!!</h1>
-<h3 align="center">A passionate Full-Stack developer from Atlanta, GA </h3>
+<h1 align="center">Hi 👋🏼, I'm Cristina!!</h1>
+<h3 align="center">A passionate Full-Stack developer from Atlanta, GA 🏙 </h3>
 
 - 🌱 I’m currently learning **React, Redux, Node, and PostgreSQL**
 
@@ -11,8 +11,6 @@
 - 📫 How to reach me **cristinahdz29@gmail.com**
 
 - 📄 Know about my experiences [Link TO Resume](Link TO Resume)
-
-- ⚡ Fun fact **List some fun facts about yourself!**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
