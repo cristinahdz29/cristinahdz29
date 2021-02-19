@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **React, Redux, Node, and PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [Link TO Portfolio](Link TO Portfolio)
+- 👨‍💻 All of my projects are viewable on my <a href="https://cristinahernandez.dev/" target="_blank">portfolio</a>
 
 - 💬 Ask me about **"HTML, CSS, JavaScript, React, Node.js"**
 
-- 📫 How to reach me **cristinahdz29@gmail.com**
+- 📫 How to reach me **contact@cristinahernandez.dev**
 
 - 📄 Know about my experiences [Link TO Resume](Link TO Resume)
 
