@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **"HTML, CSS, JavaScript, React, Node.js"**
 
-- 📫 How to reach me **contact@cristinahernandez.dev**
+- 📫 Send me an email 👉🏽 **contact@cristinahernandez.dev**
 
-- 📄 Know about my experiences [Link TO Resume](Link TO Resume)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Hsid6hcAmP3XLcsU8-w7etWLu5YWwOvd/view?usp=sharing" target="_blank">Resume</a>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
