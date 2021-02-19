@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React, Redux, Node, and PostgreSQL**
 
-- 👨‍💻 All of my projects are viewable on my <a href="https://cristinahernandez.dev/" target="_blank">portfolio</a>
+- 👨‍💻 All of my projects are viewable on my **<a href="https://cristinahernandez.dev/" target="_blank">portfolio</a>**
 
 - 💬 Ask me about **"HTML, CSS, JavaScript, React, Node.js"**
 
