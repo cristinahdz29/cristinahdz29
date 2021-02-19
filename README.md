@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋🏼, I'm Cristina!!</h1>
+<h1 align="center">Hi 👋🏼, I'm  Ana Cristina!!</h1>
 <h3 align="center">A Full-Stack developer based in Atlanta, GA 🏙 </h3>
 
 - 🌱 I’m currently learning **React, Redux, Node, and PostgreSQL**
