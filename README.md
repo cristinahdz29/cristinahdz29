@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋🏼, I'm  Ana Cristina!!</h1>
-<h3 align="center">A Full-Stack developer based in Atlanta, GA 🏙 </h3>
+<h3 align="center">A Technical Product Manager and Full-Stack developer based in Atlanta, GA 🏙 </h3>
 
 - 🌱 I’m currently learning **React, Redux, Node, and PostgreSQL**
 
